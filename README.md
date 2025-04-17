@@ -12,7 +12,7 @@
 
 *MENTOR*: NEELA SANTOSH
 
-# Speech-to-Text System – Project Overview
+# Speech-to-Text System 
 
 This Python script is a real-time speech-to-text converter that captures audio through a microphone, transcribes it using Google’s Web Speech API, and saves raw audio as timestamped WAV files. Developed with the speech_recognition library, it offers an easy-to-use tool for voice-based transcription. The script is designed to run continuously, capturing and transcribing speech until manually stopped, making it ideal for use cases like interviews, lectures, or dictation.
 
