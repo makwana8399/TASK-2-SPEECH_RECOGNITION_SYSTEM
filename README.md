@@ -40,4 +40,4 @@ This real-time speech-to-text converter is a versatile tool that can be used in 
 
 # OUTPUT 
 
-![Image](https://github.com/user-attachments/assets/b64b1f06-7899-41b2-a25b-04dc86dba677)
+![Image](https://github.com/user-attachments/assets/ef871c6c-5d34-4b87-8c02-ad799490d428)
